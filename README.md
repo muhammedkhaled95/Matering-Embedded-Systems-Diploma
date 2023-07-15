@@ -1,2 +1,2 @@
 # Matering-Embedded-Systems-Diploma
-This is my journey learning embeddes software development 
+This is my journey learning embedded software development 
